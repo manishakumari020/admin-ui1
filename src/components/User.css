@@ -1,0 +1,22 @@
+.action-icons * {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.readOnly {
+    border: none;
+}
+
+.selected {
+    background: hsl(256, 76%, 34%);
+}
+
+.selected input {
+    background: hsl(180, 80%, 27%);
+}
+
+label {
+    display: inline-block;
+    width: 100%;
+}
+
